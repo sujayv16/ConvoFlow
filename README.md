@@ -3,9 +3,9 @@
 **Tagline:** Connect, Communicate, Collaborate
 
 ## Author Information
-Viswanadhapalli Sujay  
-IIT Jodhpur  
-Computer Science and Engineering
+Name: Viswanadhapalli Sujay  
+University: IIT Jodhpur  
+department: Computer Science and Engineering
 
 ## Table of Contents
 
